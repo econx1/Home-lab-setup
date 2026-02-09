@@ -1,7 +1,8 @@
 # 🛡️ SOC Automation & Active Directory Home Lab
 ## End-to-End Telemetry Pipeline & Threat Detection
 
-![Network Diagram](https://via.placeholder.com/800x400?text=Insert+Your+Network+Diagram+Here)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b467d10f-b386-4e95-b023-52de21b1dd28" />
+
 
 ## 📝 Overview
 This project demonstrates the deployment of a virtualized SOC (Security Operations Center) environment. The lab features a functional **Active Directory** forest integrated with **Wazuh SIEM/EDR** to monitor, detect, and analyze real-world attack vectors.
